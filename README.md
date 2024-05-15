@@ -1,2 +1,2 @@
 # compneuro_projects
-Model replication of papers of interest 
+Computational Neuro: Current Research Model Replication
